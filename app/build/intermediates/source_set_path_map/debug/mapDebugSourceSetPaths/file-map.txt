@@ -1,0 +1,28 @@
+com.example.kotlin_classes.app-pngs-0 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\build\generated\res\pngs\debug
+com.example.kotlin_classes.app-resValues-1 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\build\generated\res\resValues\debug
+com.example.kotlin_classes.app-packageDebugResources-2 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.kotlin_classes.app-packageDebugResources-3 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.kotlin_classes.app-debug-4 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.kotlin_classes.app-debug-5 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\src\debug\res
+com.example.kotlin_classes.app-main-6 C:\Studium\Semester 3\kotlin-classes-abgabe-UnicornPikaa\app\src\main\res
+com.example.kotlin_classes.app-transition-1.2.0-7 C:\Users\ridig\.gradle\caches\8.9\transforms\05fc23ff7ec4b05eb4589adb848cb082\transformed\transition-1.2.0\res
+com.example.kotlin_classes.app-lifecycle-viewmodel-2.3.1-8 C:\Users\ridig\.gradle\caches\8.9\transforms\10237593db97aa1780085df611d53960\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.kotlin_classes.app-emoji2-1.0.0-9 C:\Users\ridig\.gradle\caches\8.9\transforms\312a698e4ac5bbf94481921339ed9c76\transformed\emoji2-1.0.0\res
+com.example.kotlin_classes.app-cardview-1.0.0-10 C:\Users\ridig\.gradle\caches\8.9\transforms\36ad4aeee85309752a6f686ea2009df0\transformed\cardview-1.0.0\res
+com.example.kotlin_classes.app-core-ktx-1.7.0-11 C:\Users\ridig\.gradle\caches\8.9\transforms\3f7308014fe0806b122ca999136f48f7\transformed\core-ktx-1.7.0\res
+com.example.kotlin_classes.app-viewpager2-1.0.0-12 C:\Users\ridig\.gradle\caches\8.9\transforms\459bdd850acd094aedeb7f1a2f1de1dc\transformed\viewpager2-1.0.0\res
+com.example.kotlin_classes.app-startup-runtime-1.0.0-13 C:\Users\ridig\.gradle\caches\8.9\transforms\5cb28029e8cda368ac38f6caab8f522d\transformed\startup-runtime-1.0.0\res
+com.example.kotlin_classes.app-core-1.7.0-14 C:\Users\ridig\.gradle\caches\8.9\transforms\6f94def63dbab4d00e02b190b132d9d6\transformed\core-1.7.0\res
+com.example.kotlin_classes.app-annotation-experimental-1.1.0-15 C:\Users\ridig\.gradle\caches\8.9\transforms\7085a6266ab48e262488175c4b794f9c\transformed\annotation-experimental-1.1.0\res
+com.example.kotlin_classes.app-appcompat-1.4.1-16 C:\Users\ridig\.gradle\caches\8.9\transforms\72bdbfdbdd853ca31f725f9403daf96c\transformed\appcompat-1.4.1\res
+com.example.kotlin_classes.app-constraintlayout-2.1.3-17 C:\Users\ridig\.gradle\caches\8.9\transforms\944762bad09c998712f5376cfcd3b027\transformed\constraintlayout-2.1.3\res
+com.example.kotlin_classes.app-lifecycle-runtime-2.4.0-18 C:\Users\ridig\.gradle\caches\8.9\transforms\944cbcbc31474d892e9e161a816e2620\transformed\lifecycle-runtime-2.4.0\res
+com.example.kotlin_classes.app-drawerlayout-1.1.1-19 C:\Users\ridig\.gradle\caches\8.9\transforms\9e8340c147abcf58ec78d119d4a40260\transformed\drawerlayout-1.1.1\res
+com.example.kotlin_classes.app-coordinatorlayout-1.1.0-20 C:\Users\ridig\.gradle\caches\8.9\transforms\b42d91208407896e02e9d6d5f6cd318e\transformed\coordinatorlayout-1.1.0\res
+com.example.kotlin_classes.app-savedstate-1.1.0-21 C:\Users\ridig\.gradle\caches\8.9\transforms\b7c4c9a54fe71186c790165c8c88fa0c\transformed\savedstate-1.1.0\res
+com.example.kotlin_classes.app-lifecycle-process-2.4.0-22 C:\Users\ridig\.gradle\caches\8.9\transforms\c9a0f0a8bf37aedd6e71979763184940\transformed\lifecycle-process-2.4.0\res
+com.example.kotlin_classes.app-emoji2-views-helper-1.0.0-23 C:\Users\ridig\.gradle\caches\8.9\transforms\cad728297591f1559b1cd92d4b2104c2\transformed\emoji2-views-helper-1.0.0\res
+com.example.kotlin_classes.app-recyclerview-1.1.0-24 C:\Users\ridig\.gradle\caches\8.9\transforms\e67f3d64ef4a833bde033c8753294d7e\transformed\recyclerview-1.1.0\res
+com.example.kotlin_classes.app-appcompat-resources-1.4.1-25 C:\Users\ridig\.gradle\caches\8.9\transforms\e79079050799d1d50e49c2088f6da720\transformed\appcompat-resources-1.4.1\res
+com.example.kotlin_classes.app-fragment-1.3.6-26 C:\Users\ridig\.gradle\caches\8.9\transforms\e8163fd3b4b3de1c9d755720786f5764\transformed\fragment-1.3.6\res
+com.example.kotlin_classes.app-material-1.5.0-27 C:\Users\ridig\.gradle\caches\8.9\transforms\fb035a54e3c3284389b86955ed679f35\transformed\material-1.5.0\res
